@@ -1,5 +1,3 @@
-# Text-Summarizer
-
 # Project Title:Text Summarizer GUI
 
 # Objective:
