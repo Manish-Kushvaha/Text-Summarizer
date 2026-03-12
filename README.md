@@ -10,7 +10,7 @@ You can download the ready-to-run Windows application here:
 
 ⬇️ **Download the EXE**
 
-[Download Text Summarizer](sha256:fd92b8284c794aff9951a2c761b6f2e10ff94da99de60998f15a46215137cbd9)
+[Download Text Summarizer](https://github.com/Manish-Kushvaha/Text-Summarizer/releases/download/v1.0/summarizer_app.zip)
 
 No Python installation required.
 
