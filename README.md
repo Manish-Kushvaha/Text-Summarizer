@@ -12,6 +12,13 @@ You can download the ready-to-run Windows application here:
 
 [Download Text Summarizer](https://github.com/Manish-Kushvaha/Text-Summarizer/releases/download/v1.0/summarizer_app.zip)
 
+### How to Run the Application
+
+1. Download the ZIP file
+2. Extract the ZIP file
+3. Open the extracted folder
+4. Run **summarizer_app.exe**
+
 No Python installation required.
 
 ---
